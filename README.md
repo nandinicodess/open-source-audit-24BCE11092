@@ -2,7 +2,7 @@
 
 👤 Student Details
 Name: Nandini Lodha
-Roll Number: 24BCE11092
+Registration Number: 24BCE11092
 
 🌐 Chosen Software
 Mozilla Firefox
